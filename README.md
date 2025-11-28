@@ -1,5 +1,5 @@
-[![1000x420](https://user-images.githubusercontent.com/63864738/92416494-1af97f80-f15e-11ea-8337-ad068035635d.gif "Xiaoshan")](https://github.com/fxshan)
-
+<!-- [![1000x420](https://user-images.githubusercontent.com/63864738/92416494-1af97f80-f15e-11ea-8337-ad068035635d.gif "Xiaoshan")](https://github.com/fxshan) -->
+[![1000x420](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif "Xiaoshan")](https://github.com/fxshan)
 
 <!--
 **fxshan/fxshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning data engineering.
+- 🌱 I’m currently focusing on refining my expertise in Data Engineering and DevOps Engineering.
